@@ -11,6 +11,7 @@ class calculatorBrain {
   }
 
   String resultBMI() {
+    bmi = double.parse(calculateBMI());
     if (bmi >= 30) {
       return 'Obesity';
     } else if (bmi >= 25) {
@@ -23,6 +24,7 @@ class calculatorBrain {
   }
 
   String getInterpretation() {
+    bmi = double.parse(calculateBMI());
     if (bmi >= 30) {
       return 'Your BMI result is quite high. Control diet and exercise more!';
     } else if (bmi >= 25) {
