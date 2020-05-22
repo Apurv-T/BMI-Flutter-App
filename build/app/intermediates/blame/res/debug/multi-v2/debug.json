@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/apurvtripathi/Desktop/AcademicCourses/Java Projects/flutter_apps/bmi_calculator/build/app/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
+            "outputFile": "/Users/apurvtripathi/Desktop/AcademicCourses/Java Projects/flutter_apps/bmi_calculator/build/app/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/apurvtripathi/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/values-sw/values-sw.xml",
+                    "source": "/Users/apurvtripathi/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/values-ta/values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -31,10 +31,10 @@
             ]
         },
         {
-            "outputFile": "/Users/apurvtripathi/Desktop/AcademicCourses/Java Projects/flutter_apps/bmi_calculator/build/app/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
+            "outputFile": "/Users/apurvtripathi/Desktop/AcademicCourses/Java Projects/flutter_apps/bmi_calculator/build/app/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/apurvtripathi/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/values-ta/values-ta.xml",
+                    "source": "/Users/apurvtripathi/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
