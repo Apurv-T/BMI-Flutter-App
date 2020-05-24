@@ -3,7 +3,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'results_page.dart';
 import 'calculator_brain.dart';
 
-Color inactiveColor = Color(0xFF1D1E33);
+Color inactiveColor = Color(0xFF1D1E32);
 Color activeColor = Color(0xFF111328);
 int height = 180;
 int weight = 80;
@@ -97,7 +97,7 @@ class _InputPageState extends State<InputPage> {
               children: <Widget>[
                 Expanded(
                   child: ReusableCard(
-                    colorSelected: Color(0xFF1D1E33),
+                    colorSelected: Color(0xFF1D1E32),
                     cardChild: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: <Widget>[
@@ -160,7 +160,7 @@ class _InputPageState extends State<InputPage> {
               children: <Widget>[
                 Expanded(
                   child: ReusableCard(
-                    colorSelected: Color(0xFF1D1E33),
+                    colorSelected: Color(0xFF1D1E32),
                     cardChild: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: <Widget>[
@@ -206,7 +206,7 @@ class _InputPageState extends State<InputPage> {
                 ),
                 Expanded(
                   child: ReusableCard(
-                    colorSelected: Color(0xFF1D1E33),
+                    colorSelected: Color(0xFF1D1E32),
                     cardChild: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: <Widget>[

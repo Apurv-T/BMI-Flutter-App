@@ -12,7 +12,7 @@ class calculatorBrain {
 
   String resultBMI() {
     bmi = double.parse(calculateBMI());
-    if (bmi >= 30) {
+    if (bmi >= 29.9) {
       return 'Obesity';
     } else if (bmi >= 25) {
       return 'Overweight';
